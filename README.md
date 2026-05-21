@@ -1,2 +1,2 @@
-# bip39
+# BIP39
 ![preview](./assets/BIP39.png)
